@@ -6,6 +6,15 @@ A React + TypeScript + Vite application demonstrating component-based UI with co
 
 This project implements a Github user listing and public repository explorer using [GitHub API](https://developer.github.com/v3/) interface with reusable components for UI feedback. It leverages React context for state management and handles error states gracefully. The app is fully covered with unit and integration tests to ensure robustness.
 
+## Demo
+1. Desktop View
+
+[Watch the video](https://github.com/user-attachments/assets/3e42c0e8-4ce9-46f4-841b-26b5d19b6daf)
+
+3. Mobile View
+
+[Watch the video](https://github.com/user-attachments/assets/857dbdb2-58d5-4c67-81b0-0460093919f0)
+
 ## Installation
 1. Clone the repository:
 ```bash
