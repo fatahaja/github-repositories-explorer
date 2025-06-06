@@ -56,6 +56,7 @@ yarn build
 - Comprehensive unit and integration testing
 
 ## Project Structure (Brief Overview)
+```
 src/
 ├── api/             # API Call Functions
 │   └── github/      # Github API Call
@@ -66,6 +67,7 @@ src/
 tests/
 ├── integration/     # Integration test files
 ├── unit/            # Unit tests
+```
 
 ## Contributing
 Contributions are welcome! Please open issues or pull requests. Follow consistent code style and write tests for new features.
